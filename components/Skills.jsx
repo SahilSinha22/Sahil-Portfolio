@@ -4,8 +4,8 @@ import laptop from "@/public/Inro.png"
 const Skills = () => {
   return (
     <>
-    <div className=' p-16'>
-      <div class="bg-[#F3F5F9] ">
+    <div className='bg-[#F3F5F9] p-4 md:p-16'>
+      <div class=" ">
         <h2 class="text-4xl font-bold text-[#2C3F33]">My Skills</h2>
         <div className="text-left mt-4">
           <h3 class="text-4xl font-medium text-[#283A28]">Exploring My Diverse</h3>
@@ -43,10 +43,10 @@ const Skills = () => {
         </div>
         </div>
         </div>
-        <div class="flex justify-between text-center lg:text-xl text-[#7D7B7C] font-semibold  lg:px-16 py-6 bg-white">
+        <div class="flex justify-between text-center text-sm lg:text-xl text-[#7D7B7C] font-semibold px-4 lg:px-16 py-6 bg-white">
           <button class="rounded">Contact</button>
-          <button class=" px-6 py-2 border-2 border-[#7D7B7C] rounded-3xl  ">Get in Touch</button>
-          <button class=" px-6 py-2 border-2 border-[#7D7B7C] rounded-3xl">Lets Collaborate</button>
+          <button class=" px-2 py-2 md:px-6 md:py-2 border-2 border-[#7D7B7C] rounded-3xl  ">Get in Touch</button>
+          <button class=" px-2 py-2 md:px-6 md:py-2 border-2 border-[#7D7B7C] rounded-3xl">Lets Collaborate</button>
         </div>
       
 
