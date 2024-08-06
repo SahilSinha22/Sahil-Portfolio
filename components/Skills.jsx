@@ -46,7 +46,7 @@ const Skills = () => {
         <div class="flex justify-between text-center lg:text-xl text-[#7D7B7C] font-semibold  lg:px-16 py-6 bg-white">
           <button class="rounded">Contact</button>
           <button class=" px-6 py-2 border-2 border-[#7D7B7C] rounded-3xl  ">Get in Touch</button>
-          <button class=" px-6 py-2 border-2 border-[#7D7B7C] rounded-3xl">Let's Collaborate</button>
+          <button class=" px-6 py-2 border-2 border-[#7D7B7C] rounded-3xl">Lets Collaborate</button>
         </div>
       
 
